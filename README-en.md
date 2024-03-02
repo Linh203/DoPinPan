@@ -1,3 +1,4 @@
+Vi-Vn: https://github.com/Linh203/DoPinPan/blob/main/README.md
 # DoPinPan
  - Fast food buying application
  - Free-Download: https://github.com/Linh203/DoPinPan/releases/tag/DoPinPan
