@@ -1,4 +1,3 @@
-Vi🇻🇳
 En-Us: https://github.com/Linh203/DoPinPan/blob/main/README-en.md
 # DoPinPan
    - Ứng Dụng Mua Đồ Ăn Nhanh
