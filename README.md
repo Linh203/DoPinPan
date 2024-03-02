@@ -1,3 +1,5 @@
+Vi🇻🇳
+En-Us: https://github.com/Linh203/DoPinPan/blob/main/README-en.md
 # DoPinPan
    - Ứng Dụng Mua Đồ Ăn Nhanh
    - Free-Download: https://github.com/Linh203/DoPinPan/releases/tag/DoPinPan
