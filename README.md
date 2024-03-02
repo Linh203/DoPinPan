@@ -1,6 +1,6 @@
 # DoPinPan
- Fast food buying application
- Free-Download: https://github.com/Linh203/DoPinPan/releases/tag/DoPinPan
+   - Ứng Dụng Mua Đồ Ăn Nhanh
+   - Free-Download: https://github.com/Linh203/DoPinPan/releases/tag/DoPinPan
 
 # MỞ ĐẦU
 
